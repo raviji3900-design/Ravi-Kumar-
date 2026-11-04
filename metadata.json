@@ -1,0 +1,6 @@
+{
+  "name": "Loading Works Attendance",
+  "description": "Professional attendance management system for loading works with Admin and Operator dashboards, dual Hindi & English interface, and detailed reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
